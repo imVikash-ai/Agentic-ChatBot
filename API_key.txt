@@ -1,4 +1,0 @@
-groq api key : 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
-
-tavily : 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
-
